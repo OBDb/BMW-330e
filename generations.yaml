@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation (F30)"
+    start_year: 2016
+    end_year: 2018
+    description: "The first BMW 330e was based on the F30 generation 3 Series. This plug-in hybrid combined a 2.0L turbocharged four-cylinder petrol engine with an electric motor integrated into the eight-speed automatic transmission. The combined system produced 252 HP, with an all-electric range of approximately 25 miles (40 km). The battery was positioned under the trunk floor, slightly reducing cargo capacity. Performance remained strong with 0-60 mph acceleration in around 6 seconds, while offering significantly improved fuel economy compared to conventional models. The F30 330e represented BMW's first mainstream plug-in hybrid sedan, bringing electrification to the brand's core model line."
+
+  - name: "Second Generation (G20)"
+    start_year: 2019
+    end_year: null
+    description: "Based on the G20 generation 3 Series, the current 330e features significant improvements over its predecessor. It combines a 2.0L turbocharged four-cylinder engine with a more powerful electric motor for a combined output of 292 HP when using the XtraBoost function. The larger 12 kWh battery enables an electric range of up to 37 miles (60 km) under WLTP testing. Available in both sedan (G20) and Touring wagon (G21) body styles, with optional xDrive all-wheel drive, the second-generation 330e offers greater flexibility. Performance remains impressive with 0-60 mph times of around 5.6 seconds. The G20 330e better integrates the hybrid components, with improved packaging for the battery and enhanced operating strategies for greater efficiency. It represents BMW's commitment to electrification while maintaining the 3 Series' driving dynamics and premium character."
