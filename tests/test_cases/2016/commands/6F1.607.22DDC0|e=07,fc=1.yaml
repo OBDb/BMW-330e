@@ -1,56 +1,62 @@
 command_id: 6F1.607.22DDC0|e=07,fc=1
 test_cases:
-- response: |-
-    607F1100A62DDC0054F
-    607F12105B8057D01FF
-  expected_values:
+- expected_values:
     BMW_HVBAT_CT_MAX: 14.64
     BMW_HVBAT_CT_MIN: 13.59
-- response: |-
-    607F1100A62DDC0058F
-    607F121060D05CB01FF
-  expected_values:
+  response: |-
+    607F1100A62DDC0054F
+    607F12105B8057D01FF
+- expected_values:
     BMW_HVBAT_CT_MAX: 15.49
     BMW_HVBAT_CT_MIN: 14.23
-- response: |-
-    607F1100A62DDC005D0
-    607F1210660061F01FF
-  expected_values:
+  response: |-
+    607F1100A62DDC0058F
+    607F121060D05CB01FF
+- expected_values:
     BMW_HVBAT_CT_MAX: 16.32
     BMW_HVBAT_CT_MIN: 14.88
-- response: |-
-    607F1100A62DDC0088F
-    607F12109AD092001FF
-  expected_values:
-    BMW_HVBAT_CT_MAX: 24.77
-    BMW_HVBAT_CT_MIN: 21.91
-- response: |-
-    607F1100A62DDC008F4
-    607F12109A2094D01FF
-  expected_values:
-    BMW_HVBAT_CT_MAX: 24.66
-    BMW_HVBAT_CT_MIN: 22.92
-- response: |-
-    607F1100A62DDC00902
-    607F12109C2097201FF
-  expected_values:
+  response: |-
+    607F1100A62DDC005D0
+    607F1210660061F01FF
+- expected_values:
+    BMW_HVBAT_CT_MAX: 22.01
+    BMW_HVBAT_CT_MIN: 21.01
+  response: |-
+    607F1100A62DDC00835
+    607F1210899084001FF
+- expected_values:
+    BMW_HVBAT_CT_MAX: 22.23
+    BMW_HVBAT_CT_MIN: 21.23
+  response: |-
+    607F1100A62DDC0084B
+    607F12108AF086901FF
+- expected_values:
+    BMW_HVBAT_CT_MAX: 23.99
+    BMW_HVBAT_CT_MIN: 22.99
+  response: |-
+    607F1100A62DDC008FB
+    607F121095F091C01FF
+- expected_values:
     BMW_HVBAT_CT_MAX: 24.98
     BMW_HVBAT_CT_MIN: 23.06
-- response: |-
-    607F1100A62DDC0090C
-    607F12109C4097001FF
-  expected_values:
+  response: |-
+    607F1100A62DDC00902
+    607F12109C2097201FF
+- expected_values:
     BMW_HVBAT_CT_MAX: 25
     BMW_HVBAT_CT_MIN: 23.16
-- response: |-
-    607F1100A62DDC0091F
-    607F12109EE098F01FF
-  expected_values:
-    BMW_HVBAT_CT_MAX: 25.42
-    BMW_HVBAT_CT_MIN: 23.35
-- response: |-
-    607F1100A62DDC00989
-    607F1210A5209E901FF
-  expected_values:
+  response: |-
+    607F1100A62DDC0090C
+    607F12109C4097001FF
+- expected_values:
     BMW_HVBAT_CT_MAX: 26.42
     BMW_HVBAT_CT_MIN: 24.41
+  response: |-
+    607F1100A62DDC00989
+    607F1210A5209E901FF
+- expected_values:
+    BMW_HVBAT_CT_MAX: 25.92
+    BMW_HVBAT_CT_MIN: 24.84
+  response: |-
+    607F1100A62DDC009B4
+    607F1210A2009F401FF
